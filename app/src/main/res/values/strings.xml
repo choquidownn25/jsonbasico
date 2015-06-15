@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">jsonbasico</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre">Nombre</string>
+    <string name="dni">Codigo</string>
+    <string name="tlf">Telefono</string>
+    <string name="email">Email</string>
+    <string name="insertar">Insertar</string>
+    <string name="mostrar">Mostrar</string>
+
+</resources>
